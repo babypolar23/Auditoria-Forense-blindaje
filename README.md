@@ -1,8 +1,5 @@
 # Auditoria-Forense-blindaje
 Auditoría de Red e Infraestructura (Nodo Fedora) y Auditoría de Red e Infraestructura (Nodo Fedora)
-🔥🔥 Examen Nivel Dios: "Operación Doble Núcleo"
-Escribe el contenido completo del script de Bash que resuelva las siguientes fases en orden estricto, aplicando todo lo que has aprendido:
-El siguiente script nos ayuda a automatizar lo siguiente:
 Auditoría de Red e Infraestructura (Nodo Fedora)
 echo ”===INICIANDO AUDITORÍA DE RED E INFRAESTRUCTURA EN NODO FEDORA==="
 Nos muestra en pantalla el usuario actual, para saber que ruta tomar. (whoami) y el uso de memoria RAM en un formato que podamos entenderte comprender gracias al parámetro -h (free -h)y espacio en disco de forma legible, comprendible y de ayuda fácil visual para nosotros como humanos, gracias al parametro -h (df -h)
