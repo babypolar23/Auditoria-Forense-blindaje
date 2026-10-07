@@ -1,4 +1,4 @@
-# Auditoria-Forense-blindaje
+# Auditoria-Forense-Blindaje
 Auditoría de Red e Infraestructura (Nodo Fedora) y Auditoría de Red e Infraestructura (Nodo Fedora)
 Auditoría de Red e Infraestructura (Nodo Fedora)
 echo ”===INICIANDO AUDITORÍA DE RED E INFRAESTRUCTURA EN NODO FEDORA==="
